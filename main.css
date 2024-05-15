@@ -1,0 +1,20 @@
+/* Estilos para párrafos */
+p {
+  font-size: 16px;
+  line-height: 1.5;
+  margin-bottom: 20px;
+  background-color: #f0f0f0; /* Color de fondo para los párrafos */
+}
+
+/* Estilos para encabezados h1 */
+h1 {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 20px;
+  background-color: #3498db; /* Color de fondo para el encabezado */
+}
+
+/* Estilo para el cuerpo de la página */
+body {
+  background-color: #3498db; /* Color de fondo para la página */
+}
